@@ -3,7 +3,9 @@
 apk
 
   工具类：
-   devicesinfo
+   devicesinfo 
+   termius
+   wifiman()
 
 破解类：
 
