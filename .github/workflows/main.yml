@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        
+
       - name: Base64 encode ss.list and save as sub.list
         working-directory: ./ipa
         run: |
