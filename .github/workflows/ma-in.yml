@@ -16,7 +16,7 @@ jobs:
         working-directory: ./ipa      
         run: |
           # 读取文件内容
-          content=$(<./ipa/ss.list)
+          content=$(<ss.list)
           
           
           # 编码更新后的文件内容
