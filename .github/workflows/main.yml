@@ -1,12 +1,14 @@
 name: ss.list--Base64 encode-->sub.list
 
-on: push
-
+on: 
+  push:
+    paths:
+      - './ips/ss.list'
 jobs:
-  encode:
+  update_file:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
       - name: Base64 encode ss.list and save as sub.list
