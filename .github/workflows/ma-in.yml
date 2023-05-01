@@ -3,7 +3,7 @@ name: ss.list--Base64 encode-->sub.list
 on:
   push:
     paths:
-      - './ipa/ss.list'
+      - 'ss.list'
 
 jobs:
   update_file:
