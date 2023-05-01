@@ -1,0 +1,18 @@
+name: ss.list--Base64 encode-->sub.list
+
+on: push
+
+jobs:
+  encode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Base64 encode ss.list and save as sub.list
+        working-directory: ./ipa
+        run: |
+          cat ss.list | base64 > sub.list
+          git add sub.list
+          git commit -m "Update sub.list with base64 encoded content"
+          git push
