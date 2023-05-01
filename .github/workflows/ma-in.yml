@@ -1,0 +1,34 @@
+name: ss.list--Base64 encode-->sub.list
+
+on:
+  push:
+    paths:
+      - './ipa/ss.list'
+
+jobs:
+  update_file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update File
+        working-directory: ./ipa      
+        run: |
+          # 读取文件内容
+          content=$(<./ipa/ss.list)
+          
+          
+          # 编码更新后的文件内容
+          encoded_content=$(echo "$content" | base64)
+          
+          # 更新文件
+          echo "$encoded_content" > sub.list
+
+          git add sub.list
+          
+          # 提交更新
+          git config --local user.email "wang_zi_mo@163.com"
+          git config --local user.name "fqw000"
+          git commit -m "sub.list" -a
+          git push
