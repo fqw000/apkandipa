@@ -6,3 +6,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjJlM2JkNTk1LVZNZXNzX1dTIiwNCiAgImFkZCI6
 trojan://2e3bd595-c494-473c-a6f0-84fbe47b813a@wangqifei0x00.eu.org:443?security=tls&sni=wangqifei0x00.eu.org&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#wangqifei0x00.eu.org_Trojan
 vless://2e3bd595-c494-473c-a6f0-84fbe47b813a@wangqifei0x00.eu.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wangqifei0x00.eu.org&fp=chrome&pbk=hpGQoyL4yo8nY1ehU1Tf3uKVrzp_dXs8KVDu9ipL5Uo&sid=6ba85179e30d4fc2&type=tcp&headerType=none#2e3bd595-vless_reality_vision
 vless://2e3bd595-c494-473c-a6f0-84fbe47b813a@wangqifei0x00.eu.org:443?encryption=none&security=reality&sni=wangqifei0x00.eu.org&fp=chrome&pbk=hpGQoyL4yo8nY1ehU1Tf3uKVrzp_dXs8KVDu9ipL5Uo&sid=6ba85179e30d4fc2&type=grpc&serviceName=grpc&mode=gun#2e3bd595-vless_reality_grpc
+hysteria2://169cd235-10f1-45dd-a15e-5f595c6d7583@wangqifei0x00.eu.org:14460?peer=wangqifei0x00.eu.org&insecure=0&sni=wangqifei0x00.eu.org&alpn=h3#hysteria2
