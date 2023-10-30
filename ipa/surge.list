@@ -1,4 +1,4 @@
-183Trojan = trojan, neteasy0x00.eu.org, 443, password=e356cea6-cfcd-4524-a11c-0c2fd8660d19, sni=neteasy0x00.eu.org
-15VMess_WS = vmess, wangqifei0x00.eu.org, 443, username=2e3bd595-c494-473c-a6f0-84fbe47b813a, sni=wangqifei0x00.eu.org, ws=true, ws-path=/duxjvws, ws-headers=Host:"wangqifei0x00.eu.org", vmess-aead=true, tls=true
-15Trojan = trojan, wangqifei0x00.eu.org, 443, password=2e3bd595-c494-473c-a6f0-84fbe47b813a, sni=wangqifei0x00.eu.org
-15tuic = tuic-v5, wangqifei0x00.eu.org, 22575, password=2e3bd595-c494-473c-a6f0-84fbe47b813a, uuid=2E3BD595-C494-473C-A6F0-84FBE47B813A, alpn=h3
+neteasy183tuic5 = tuic-v5, neteasy0x00.eu.org, 26751, password=e356cea6-cfcd-4524-a11c-0c2fd8660d19, uuid=e356cea6-cfcd-4524-a11c-0c2fd8660d19, alpn=h3
+wang232tuic5 = tuic-v5, wangqifei0x00.eu.org, 22162, password=12fcb8ca-161e-467c-94d1-51136a977a76, uuid=12fcb8ca-161e-467c-94d1-51136a977a76, alpn=h3
+neteasy183Trojan = trojan, neteasy0x00.eu.org, 443, password=e356cea6-cfcd-4524-a11c-0c2fd8660d19, sni=neteasy0x00.eu.org
+wang232Trojan = trojan, wangqifei0x00.eu.org, 443, password=7bb24ed1-8461-42a2-b79f-d5540c21715a, sni=wangqifei0x00.eu.org
