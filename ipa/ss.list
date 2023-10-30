@@ -4,4 +4,5 @@ vless://7bb24ed1-8461-42a2-b79f-d5540c21715a@wangqifei0x00.eu.org:443?encryption
 trojan://7bb24ed1-8461-42a2-b79f-d5540c21715a@wangqifei0x00.eu.org:443?security=tls&sni=wangqifei0x00.eu.org&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#wang232_Trojan
 hysteria2://12fcb8ca-161e-467c-94d1-51136a977a76@wangqifei0x00.eu.org:20989?peer=wangqifei0x00.eu.org&insecure=0&sni=wangqifei0x00.eu.org&alpn=h3#wang232_hysteria2
 hysteria://neteasy0x00.eu.org:15751?protocol=udp&auth=e356cea6-cfcd-4524-a11c-0c2fd8660d19&peer=neteasy0x00.eu.org&insecure=0&alpn=h3&upmbps=50&downmbps=100#neteasy183_hysteria
-tuic://e356cea6-cfcd-4524-a11c-0c2fd8660d19:e356cea6-cfcd-4524-a11c-0c2fd8660d19@neteasy0x00.eu.org:26751?congestion_control=bbr&udp_relay_mode=native&alpn=h3#neteasy232_tuic
+tuic://e356cea6-cfcd-4524-a11c-0c2fd8660d19:e356cea6-cfcd-4524-a11c-0c2fd8660d19@neteasy0x00.eu.org:26751?congestion_control=bbr&udp_relay_mode=native&alpn=h3#neteasy183_tuic
+tuic://12fcb8ca-161e-467c-94d1-51136a977a76:12fcb8ca-161e-467c-94d1-51136a977a76@wangqifei0x00.eu.org:22162?congestion_control=bbr&udp_relay_mode=native&alpn=h3#wang232_tuic
