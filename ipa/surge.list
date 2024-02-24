@@ -1,6 +1,5 @@
-wang2323_hy2 = hysteria2, wangqifei0x00.eu.org, 20989, password=12fcb8ca-161e-467c-94d1-51136a977a76, skip-cert-verify=true, sni=wangqifei0x00.eu.org, download-bandwidth=100
-neteasy183_hy2 = hysteria2, neteasy0x00.eu.org, 15751, password=e356cea6-cfcd-4524-a11c-0c2fd8660d19, skip-cert-verify=true, sni=neteasy0x00.eu.org, download-bandwidth=100
-neteasy183_tuic5 = tuic-v5, neteasy0x00.eu.org, 26751, password=e356cea6-cfcd-4524-a11c-0c2fd8660d19, skip-cert-verify=true, uuid=E356CEA6-CFCD-4524-A11C-0C2FD8660D19, alpn=h3
-wang232_tuic5 = tuic-v5, wangqifei0x00.eu.org, 22162, password=12fcb8ca-161e-467c-94d1-51136a977a76, skip-cert-verify=true, uuid=12FCB8CA-161E-467C-94D1-51136A977A76, alpn=h3
-neteasy183Trojan = trojan, neteasy0x00.eu.org, 443, password=e356cea6-cfcd-4524-a11c-0c2fd8660d19, sni=neteasy0x00.eu.org
-wang232Trojan = trojan, wangqifei0x00.eu.org, 443, password=7bb24ed1-8461-42a2-b79f-d5540c21715a, sni=wangqifei0x00.eu.org
+232hy2 = hysteria2, 192.9.187.232, 443, password=mathilda1556228, skip-cert-verify=true, sni=wangqifei0x00.eu.org, download-bandwidth=100
+183hy2 = hysteria2, 152.67.104.183, 443, password=mathilda1556228, skip-cert-verify=true, sni=neteasy0x00.eu.org, download-bandwidth=100
+232sing-box_hy2 = hysteria2, 192.9.187.232, 39116, password=5fcc228c-62ad-4e62-a3d5-2089f04c074e, sni=wangqifei0x00.eu.org, download-bandwidth=100
+232tuic5 = tuic-v5, 192.9.187.232, 37569, password=5fcc228c-62ad-4e62-a3d5-2089f04c074e, skip-cert-verify=true, sni=wangqifei0x00.eu.org, uuid=5FCC228C-62AD-4E62-A3D5-2089F04C074E, alpn=h3
+183tuic5 = tuic-v5, neteasy0x00.eu.org, 26751, password=e356cea6-cfcd-4524-a11c-0c2fd8660d19, skip-cert-verify=true, uuid=E356CEA6-CFCD-4524-A11C-0C2FD8660D19, alpn=h3
