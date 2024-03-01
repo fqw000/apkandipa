@@ -1,7 +1,4 @@
-vless://y@152.67.104.183:24325?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mensura.cdn-apple.com&fp=chrome&pbk=rabKbDfPVHqR_FfYQqztvSeiueS0q-2eeK5a5Uq0jkM&sid=6ba85179e30d4fc2&type=tcp&headerType=none#183-VLESS_Reality_Vision
 vless://5fcc228c-62ad-4e62-a3d5-2089f04c074e@192.9.187.232:41653?encryption=none&flow=xtls-rprx-vision&security=tls&sni=wangqifei0x00.eu.org&fp=chrome&type=tcp&headerType=none&host=wangqifei0x00.eu.org#232-VLESS_TCP%2FTLS_Vision
 hysteria2://mathilda1556228@192.9.187.232:443?sni=wangqifei0x00.eu.org&alpn=h3&insecure=1#232hy2
-hysteria2://mathilda1556228@152.67.104.183:443?sni=neteasy0x00.eu.org&alpn=h3&insecure=1#183hy2
 hysteria2://5fcc228c-62ad-4e62-a3d5-2089f04c074e@192.9.187.232:39116?sni=wangqifei0x00.eu.org&alpn=h3&insecure=0#232-singbox_hysteria2
-tuic://e356cea6-cfcd-4524-a11c-0c2fd8660d19:e356cea6-cfcd-4524-a11c-0c2fd8660d19@152.67.104.183:26751?sni=neteasy0x00.eu.org&alpn=h3&congestion_control=cubic#183_tuic
 tuic://5fcc228c-62ad-4e62-a3d5-2089f04c074e:5fcc228c-62ad-4e62-a3d5-2089f04c074e@192.9.187.232:37569?sni=wangqifei0x00.eu.org&alpn=h3&congestion_control=bbr#232-singbox_tuic
