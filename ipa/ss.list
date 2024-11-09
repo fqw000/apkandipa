@@ -10,3 +10,4 @@ vless://8a48e62a-3a47-4661-babf-33410df1bfd6@joomshaper.com:8443?encryption=none
 vless://41bf99bc-8361-44e9-8512-2bd1a5a5a17d@www.visa.com.sg:8443?encryption=none&security=tls&sni=vless.wangqifei.eu.org&type=ws&host=vless.wangqifei.eu.org&path=%2F%3Fed%3D2048#www.visa.com.sg
 vless://8a48e62a-3a47-4661-babf-33410df1bfd6@demo.taxopress.com:8443?encryption=none&security=tls&sni=us-vless.neteasy0x00.eu.org&fp=random&type=ws&host=us-vless.neteasy0x00.eu.org&path=%2F%3Fed%3D2048#demo.taxopress.com
 vless://8a48e62a-3a47-4661-babf-33410df1bfd6@172.67.9.24:8443?encryption=none&security=tls&sni=us-vless.neteasy0x00.eu.org&fp=random&type=ws&host=us-vless.neteasy0x00.eu.org&path=%2F%3Fed%3D2048#172.67.9.24
+vless://41bf99bc-8361-44e9-8512-2bd1a5a5a17d@fei.cf.cname.vvhan.com:443?encryption=none&security=tls&sni=vless.wangqifei.eu.org&fp=random&type=ws&host=vless.wangqifei.eu.org&path=%2F%3Fed%3D2048#CloudflareIP-dnspod-ddns
